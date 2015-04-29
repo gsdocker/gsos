@@ -20,6 +20,23 @@ func IsExist(filename string) bool {
 	return err == nil || os.IsExist(err)
 }
 
+// SameFile .
+func SameFile(f1, f2 string) bool {
+	s1, err := os.Stat(f1)
+
+	if err != nil {
+		return false
+	}
+
+	s2, err := os.Stat(f2)
+
+	if err != nil {
+		return false
+	}
+
+	return os.SameFile(s1, s2)
+}
+
 // IsDir check file entry if a directory entry
 func IsDir(filename string) bool {
 
