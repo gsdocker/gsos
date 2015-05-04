@@ -5,6 +5,7 @@ import (
 	"io"
 	"io/ioutil"
 	"os"
+	"path/filepath"
 
 	"github.com/gsdocker/gserrors"
 )
@@ -13,6 +14,13 @@ import (
 var (
 	ErrFS = errors.New("file system error")
 )
+
+// CurrentDir .
+func CurrentDir() string {
+	path, _ := filepath.Abs("./")
+
+	return path
+}
 
 // SameFile .
 func SameFile(f1, f2 string) bool {
