@@ -14,12 +14,6 @@ var (
 	ErrFS = errors.New("file system error")
 )
 
-// IsExist check file entry if exist
-func IsExist(filename string) bool {
-	_, err := os.Stat(filename)
-	return err == nil || os.IsExist(err)
-}
-
 // SameFile .
 func SameFile(f1, f2 string) bool {
 	s1, err := os.Stat(f1)
@@ -35,6 +29,12 @@ func SameFile(f1, f2 string) bool {
 	}
 
 	return os.SameFile(s1, s2)
+}
+
+// IsExist check file entry if exist
+func IsExist(filename string) bool {
+	_, err := os.Stat(filename)
+	return err == nil || os.IsExist(err)
 }
 
 // IsDir check file entry if a directory entry
