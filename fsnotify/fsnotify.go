@@ -1,4 +1,4 @@
-package gsos
+package fsnotify
 
 import (
 	"fmt"
@@ -8,6 +8,7 @@ import (
 	"sync"
 
 	"github.com/go-fsnotify/fsnotify"
+	"github.com/gsdocker/gsos"
 )
 
 // Event .
@@ -67,7 +68,7 @@ func (watcher *FSWatcher) Add(path string, recursively bool) error {
 		return nil
 	}
 
-	if !IsDir(path) {
+	if !gsos.IsDir(path) {
 		watcher.watcher.Add(absPath)
 		return nil
 	}
@@ -109,7 +110,7 @@ func (watcher *FSWatcher) Remove(path string) error {
 		return nil
 	}
 
-	if !IsDir(path) {
+	if !gsos.IsDir(path) {
 		watcher.watcher.Remove(absPath)
 		return nil
 	}
@@ -150,7 +151,7 @@ func (watcher *FSWatcher) dispatch() {
 		case event := <-watcher.watcher.Events:
 
 			if (event.Op & fsnotify.Create) == fsnotify.Create {
-				if IsDir(event.Name) {
+				if gsos.IsDir(event.Name) {
 					watcher.onCreateDir(event)
 				}
 			}
