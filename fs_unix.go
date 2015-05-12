@@ -11,3 +11,6 @@ const (
 
 // RemoveAll .
 var RemoveAll = os.RemoveAll
+
+// Symlink .
+var Symlink = os.Symlink

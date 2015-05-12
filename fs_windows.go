@@ -26,3 +26,12 @@ func RemoveAll(dir string) error {
 
 	return nil
 }
+
+// Symlink improve os.Symlink
+func Symlink(src, dst string) error {
+	output, err := exec.Command("cmd", "/c", "mklink", "/j", dst, src).Output()
+	if err != nil {
+		return gserrors.Newf(err, string(output))
+	}
+	return nil
+}
