@@ -40,8 +40,8 @@ func SameFile(f1, f2 string) bool {
 
 // IsExist check file entry if exist
 func IsExist(filename string) bool {
-	_, err := os.Stat(filename)
-	return err == nil || os.IsExist(err)
+	_, err := os.Lstat(filename)
+	return err == nil
 }
 
 // IsDir check file entry if a directory entry
