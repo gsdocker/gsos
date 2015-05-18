@@ -2,8 +2,8 @@
     "name":"github.com/gsdocker/gsos",
 
     "import" : [
-        {"name" : "github.com/gsdocker/gserrors","scope":"task|runtimes"},
-        {"name" : "github.com/gsdocker/gslogger","scope":"task|runtimes"},
-        {"name" : "github.com/go-fsnotify/fsnotify","scope":"task|runtimes"}
+        {"name" : "github.com/gsdocker/gserrors","version":"v1.2","scope":"task|runtimes"},
+        {"name" : "github.com/gsdocker/gslogger","version":"v1.2","scope":"task|runtimes"},
+        {"name" : "github.com/go-fsnotify/fsnotify","version":"6549b98005f3e4026ad9f50ef7d5011f40ba1397","scope":"task|runtimes"}
     ]
 }
