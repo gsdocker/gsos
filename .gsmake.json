@@ -2,8 +2,8 @@
     "name":"github.com/gsdocker/gsos",
 
     "import" : [
-        {"name" : "github.com/gsdocker/gserrors","scope":"task|runtimes"},
-        {"name" : "github.com/gsdocker/gslogger","scope":"task|runtimes"},
-        {"name" : "github.com/go-fsnotify/fsnotify","scope":"task|runtimes"}
+        {"name" : "github.com/gsdocker/gserrors","version":"v2.0"},
+        {"name" : "github.com/gsdocker/gslogger","version":"v2.0"},
+        {"name" : "github.com/go-fsnotify/fsnotify"}
     ]
 }
