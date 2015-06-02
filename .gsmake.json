@@ -1,6 +1,8 @@
 {
     "name":"github.com/gsdocker/gsos",
 
+    "version":"v2.0",
+
     "import" : [
         {"name" : "github.com/gsdocker/gserrors","version":"v2.0"},
         {"name" : "github.com/gsdocker/gslogger","version":"v2.0"},
