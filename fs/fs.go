@@ -19,7 +19,7 @@ func Exists(path string) bool {
 func IsDir(path string) bool {
 	fi, err := os.Lstat(path)
 
-	return err != nil && fi.IsDir()
+	return err == nil && fi.IsDir()
 }
 
 // MkdirAll .
