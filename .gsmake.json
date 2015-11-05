@@ -5,7 +5,6 @@
 
     "import" : [
         {"name" : "github.com/gsdocker/gserrors","version":"v2.0"},
-        {"name" : "github.com/gsdocker/gslogger","version":"v2.0"},
         {"name" : "github.com/go-fsnotify/fsnotify"}
     ]
 }
