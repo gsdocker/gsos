@@ -1,0 +1,186 @@
+2016-1-10 17:25:35 gsmake (package.lua:24) loading gsmake package
+	D:/workspace/gsmake/lib/gsmake/plugin/github.com/gsmake/clang/.gsmake.lua
+2016-1-10 17:25:35 gsmake (package.lua:28) load gsmake package -- success
+	D:/workspace/gsmake/lib/gsmake/plugin/github.com/gsmake/clang/.gsmake.lua
+2016-1-10 17:25:35 gsmake (package.lua:24) loading gsmake package
+	D:/workspace/gsmake/lib/gsmake/plugin/github.com/gsmake/lua/.gsmake.lua
+2016-1-10 17:25:35 gsmake (package.lua:28) load gsmake package -- success
+	D:/workspace/gsmake/lib/gsmake/plugin/github.com/gsmake/lua/.gsmake.lua
+2016-1-10 17:25:36 gsmake (package.lua:24) loading gsmake package
+	D:/workspace/gsos/.gsmake.lua
+2016-1-10 17:25:36 gsmake (package.lua:28) load gsmake package -- success
+	D:/workspace/gsos/.gsmake.lua
+2016-1-10 17:25:36 gsmake (package.lua:24) loading gsmake package
+	D:/workspace/gsmake/lib/gsmake/cmd/builtin/.gsmake.lua
+2016-1-10 17:25:36 gsmake (package.lua:28) load gsmake package -- success
+	D:/workspace/gsmake/lib/gsmake/cmd/builtin/.gsmake.lua
+2016-1-10 17:25:36 gsmake (package.lua:24) loading gsmake package
+	D:/workspace/gsmake/lib/gsmake/sync/github.com/gsmake/curl/.gsmake.lua
+2016-1-10 17:25:36 gsmake (package.lua:28) load gsmake package -- success
+	D:/workspace/gsmake/lib/gsmake/sync/github.com/gsmake/curl/.gsmake.lua
+2016-1-10 17:25:36 gsmake (plugin.lua:35) [github.com/gsmake/curl:snapshot] sync plugin package [github.com/gsmake/lua:snapshot]
+2016-1-10 17:25:36 gsmake (plugin.lua:39) [github.com/gsmake/curl:snapshot] sync plugin package [github.com/gsmake/lua:snapshot] -- success
+	path :D:/workspace/gsmake/lib/gsmake/plugin/github.com/gsmake/lua
+2016-1-10 17:25:36 gsmake (plugin.lua:41) [github.com/gsmake/curl:snapshot] load plugin package [github.com/gsmake/lua:snapshot]
+	path :D:/workspace/gsmake/lib/gsmake/plugin/github.com/gsmake/lua
+2016-1-10 17:25:36 gsmake (package.lua:24) loading gsmake package
+	D:/workspace/gsmake/lib/gsmake/plugin/github.com/gsmake/lua/.gsmake.lua
+2016-1-10 17:25:36 gsmake (package.lua:28) load gsmake package -- success
+	D:/workspace/gsmake/lib/gsmake/plugin/github.com/gsmake/lua/.gsmake.lua
+2016-1-10 17:25:36 gsmake (plugin.lua:47) [github.com/gsmake/curl:snapshot] load plugin package [github.com/gsmake/lua:snapshot] -- success
+	path :D:/workspace/gsmake/lib/gsmake/plugin/github.com/gsmake/lua
+2016-1-10 17:25:36 gsmake (package.lua:24) loading gsmake package
+	D:/workspace/gsmake/lib/gsmake/sync/github.com/gsmake/git/.gsmake.lua
+2016-1-10 17:25:36 gsmake (package.lua:28) load gsmake package -- success
+	D:/workspace/gsmake/lib/gsmake/sync/github.com/gsmake/git/.gsmake.lua
+2016-1-10 17:25:36 gsmake (plugin.lua:35) [github.com/gsmake/git:snapshot] sync plugin package [github.com/gsmake/lua:snapshot]
+2016-1-10 17:25:36 gsmake (plugin.lua:39) [github.com/gsmake/git:snapshot] sync plugin package [github.com/gsmake/lua:snapshot] -- success
+	path :D:/workspace/gsmake/lib/gsmake/plugin/github.com/gsmake/lua
+2016-1-10 17:25:36 gsmake (plugin.lua:41) [github.com/gsmake/git:snapshot] load plugin package [github.com/gsmake/lua:snapshot]
+	path :D:/workspace/gsmake/lib/gsmake/plugin/github.com/gsmake/lua
+2016-1-10 17:25:36 gsmake (package.lua:24) loading gsmake package
+	D:/workspace/gsmake/lib/gsmake/plugin/github.com/gsmake/lua/.gsmake.lua
+2016-1-10 17:25:36 gsmake (package.lua:28) load gsmake package -- success
+	D:/workspace/gsmake/lib/gsmake/plugin/github.com/gsmake/lua/.gsmake.lua
+2016-1-10 17:25:36 gsmake (plugin.lua:47) [github.com/gsmake/git:snapshot] load plugin package [github.com/gsmake/lua:snapshot] -- success
+	path :D:/workspace/gsmake/lib/gsmake/plugin/github.com/gsmake/lua
+2016-1-10 17:25:37 gsmake (plugin.lua:35) [github.com/gsdocker/gsos:snapshot] sync plugin package [github.com/gsmake/commands:snapshot]
+2016-1-10 17:25:37 gsmake (plugin.lua:39) [github.com/gsdocker/gsos:snapshot] sync plugin package [github.com/gsmake/commands:snapshot] -- success
+	path :D:/workspace/gsmake/lib/gsmake/cmd/builtin
+2016-1-10 17:25:37 gsmake (plugin.lua:41) [github.com/gsdocker/gsos:snapshot] load plugin package [github.com/gsmake/commands:snapshot]
+	path :D:/workspace/gsmake/lib/gsmake/cmd/builtin
+2016-1-10 17:25:37 gsmake (package.lua:24) loading gsmake package
+	D:/workspace/gsmake/lib/gsmake/cmd/builtin/.gsmake.lua
+2016-1-10 17:25:37 gsmake (package.lua:28) load gsmake package -- success
+	D:/workspace/gsmake/lib/gsmake/cmd/builtin/.gsmake.lua
+2016-1-10 17:25:37 gsmake (plugin.lua:35) [github.com/gsmake/commands:snapshot] sync plugin package [github.com/gsmake/lua:snapshot]
+2016-1-10 17:25:37 gsmake (plugin.lua:39) [github.com/gsmake/commands:snapshot] sync plugin package [github.com/gsmake/lua:snapshot] -- success
+	path :D:/workspace/gsmake/lib/gsmake/plugin/github.com/gsmake/lua
+2016-1-10 17:25:37 gsmake (plugin.lua:41) [github.com/gsmake/commands:snapshot] load plugin package [github.com/gsmake/lua:snapshot]
+	path :D:/workspace/gsmake/lib/gsmake/plugin/github.com/gsmake/lua
+2016-1-10 17:25:37 gsmake (package.lua:24) loading gsmake package
+	D:/workspace/gsmake/lib/gsmake/plugin/github.com/gsmake/lua/.gsmake.lua
+2016-1-10 17:25:37 gsmake (package.lua:28) load gsmake package -- success
+	D:/workspace/gsmake/lib/gsmake/plugin/github.com/gsmake/lua/.gsmake.lua
+2016-1-10 17:25:37 gsmake (plugin.lua:47) [github.com/gsmake/commands:snapshot] load plugin package [github.com/gsmake/lua:snapshot] -- success
+	path :D:/workspace/gsmake/lib/gsmake/plugin/github.com/gsmake/lua
+2016-1-10 17:25:37 gsmake (plugin.lua:47) [github.com/gsdocker/gsos:snapshot] load plugin package [github.com/gsmake/commands:snapshot] -- success
+	path :D:/workspace/gsmake/lib/gsmake/cmd/builtin
+2016-1-10 17:25:37 gsmake (plugin.lua:35) [github.com/gsdocker/gsos:snapshot] sync plugin package [github.com/gsmake/golang:snapshot]
+2016-1-10 17:25:37 gsmake (plugin.lua:39) [github.com/gsdocker/gsos:snapshot] sync plugin package [github.com/gsmake/golang:snapshot] -- success
+	path :D:\workspace\gsmake-golang\
+2016-1-10 17:25:37 gsmake (plugin.lua:41) [github.com/gsdocker/gsos:snapshot] load plugin package [github.com/gsmake/golang:snapshot]
+	path :D:\workspace\gsmake-golang\
+2016-1-10 17:25:37 gsmake (package.lua:24) loading gsmake package
+	D:/workspace/gsmake-golang/.gsmake.lua
+2016-1-10 17:25:37 gsmake (package.lua:28) load gsmake package -- success
+	D:/workspace/gsmake-golang/.gsmake.lua
+2016-1-10 17:25:37 gsmake (plugin.lua:35) [github.com/gsmake/golang:snapshot] sync plugin package [github.com/gsmake/lua:snapshot]
+2016-1-10 17:25:37 gsmake (plugin.lua:39) [github.com/gsmake/golang:snapshot] sync plugin package [github.com/gsmake/lua:snapshot] -- success
+	path :D:/workspace/gsmake/lib/gsmake/plugin/github.com/gsmake/lua
+2016-1-10 17:25:37 gsmake (plugin.lua:41) [github.com/gsmake/golang:snapshot] load plugin package [github.com/gsmake/lua:snapshot]
+	path :D:/workspace/gsmake/lib/gsmake/plugin/github.com/gsmake/lua
+2016-1-10 17:25:37 gsmake (package.lua:24) loading gsmake package
+	D:/workspace/gsmake/lib/gsmake/plugin/github.com/gsmake/lua/.gsmake.lua
+2016-1-10 17:25:37 gsmake (package.lua:28) load gsmake package -- success
+	D:/workspace/gsmake/lib/gsmake/plugin/github.com/gsmake/lua/.gsmake.lua
+2016-1-10 17:25:37 gsmake (plugin.lua:47) [github.com/gsmake/golang:snapshot] load plugin package [github.com/gsmake/lua:snapshot] -- success
+	path :D:/workspace/gsmake/lib/gsmake/plugin/github.com/gsmake/lua
+2016-1-10 17:25:37 gsmake (plugin.lua:47) [github.com/gsdocker/gsos:snapshot] load plugin package [github.com/gsmake/golang:snapshot] -- success
+	path :D:\workspace\gsmake-golang\
+2016-1-10 17:25:37 gsmake (plugin.lua:55) [github.com/gsdocker/gsos:snapshot] setup plugin package [github.com/gsmake/commands:snapshot]
+	path :D:/workspace/gsmake/lib/gsmake/cmd/builtin
+2016-1-10 17:25:37 gsmake (plugin.lua:55) [github.com/gsmake/commands:snapshot] setup plugin package [github.com/gsmake/lua:snapshot]
+	path :D:/workspace/gsmake/lib/gsmake/plugin/github.com/gsmake/lua
+2016-1-10 17:25:37 gsmake (plugin.lua:57) [github.com/gsmake/commands:snapshot] setup plugin package [github.com/gsmake/lua:snapshot] -- success
+	path :D:/workspace/gsmake/lib/gsmake/plugin/github.com/gsmake/lua
+2016-1-10 17:25:37 gsmake (plugin.lua:61) [github.com/gsmake/commands:snapshot] install plugin package [github.com/gsmake/lua:snapshot]
+	install path :D:/workspace/gsmake/lib/gsmake/cmd/builtin/.gsmake
+2016-1-10 17:25:37 gsmake (runner.lua:46) register taskgroup(install) :
+2016-1-10 17:25:37 gsmake (runner.lua:48) 	from package [github.com/gsmake/lua:snapshot]
+2016-1-10 17:25:37 gsmake (runner.lua:126) topshort task(install) from package [github.com/gsmake/lua:snapshot] ;lua bootstrap install task
+2016-1-10 17:25:37 gsmake (runner.lua:70) invoke task(install)
+2016-1-10 17:25:37 gsmake (runner.lua:73) 	from package [github.com/gsmake/lua:snapshot] ...
+2016-1-10 17:25:37 gsmake (.gsmake.lua:14) install path :D:/workspace/gsmake/lib/gsmake/cmd/builtin/.gsmake/gsmake/github.com/gsmake/lua
+2016-1-10 17:25:37 gsmake (.gsmake.lua:21) copy
+	from:D:/workspace/gsmake/lib/gsmake/plugin/github.com/gsmake/lua/src/plugin/lua
+	to:D:/workspace/gsmake/lib/gsmake/cmd/builtin/.gsmake/gsmake/github.com/gsmake/lua/gsmake
+2016-1-10 17:25:37 gsmake (runner.lua:86) 	from package [github.com/gsmake/lua:snapshot] -- success
+2016-1-10 17:25:37 gsmake (runner.lua:89) invoke task(install) -- success
+2016-1-10 17:25:37 gsmake (plugin.lua:63) [github.com/gsmake/commands:snapshot] install plugin package [github.com/gsmake/lua:snapshot] -- success
+	install path :D:/workspace/gsmake/lib/gsmake/cmd/builtin/.gsmake
+2016-1-10 17:25:37 gsmake (plugin.lua:57) [github.com/gsdocker/gsos:snapshot] setup plugin package [github.com/gsmake/commands:snapshot] -- success
+	path :D:/workspace/gsmake/lib/gsmake/cmd/builtin
+2016-1-10 17:25:37 gsmake (plugin.lua:61) [github.com/gsdocker/gsos:snapshot] install plugin package [github.com/gsmake/commands:snapshot]
+	install path :D:/workspace/gsos/.gsmake
+2016-1-10 17:25:37 gsmake (runner.lua:46) register taskgroup(resources) :
+2016-1-10 17:25:37 gsmake (runner.lua:48) 	from package [github.com/gsmake/lua:snapshot]
+2016-1-10 17:25:37 gsmake (runner.lua:46) register taskgroup(install) :
+2016-1-10 17:25:37 gsmake (runner.lua:48) 	from package [github.com/gsmake/lua:snapshot]
+2016-1-10 17:25:37 gsmake (runner.lua:126) topshort task(install) from package [github.com/gsmake/lua:snapshot] ;lua language install task
+2016-1-10 17:25:37 gsmake (runner.lua:126) topshort task(resources) from package [github.com/gsmake/lua:snapshot] ;prepare lua project's resources
+2016-1-10 17:25:37 gsmake (runner.lua:70) invoke task(resources)
+2016-1-10 17:25:37 gsmake (runner.lua:73) 	from package [github.com/gsmake/lua:snapshot] ...
+2016-1-10 17:25:37 gsmake (runner.lua:86) 	from package [github.com/gsmake/lua:snapshot] -- success
+2016-1-10 17:25:37 gsmake (runner.lua:89) invoke task(resources) -- success
+2016-1-10 17:25:37 gsmake (runner.lua:70) invoke task(install)
+2016-1-10 17:25:37 gsmake (runner.lua:73) 	from package [github.com/gsmake/lua:snapshot] ...
+2016-1-10 17:25:37 gsmake (runner.lua:86) 	from package [github.com/gsmake/lua:snapshot] -- success
+2016-1-10 17:25:37 gsmake (runner.lua:89) invoke task(install) -- success
+2016-1-10 17:25:37 gsmake (plugin.lua:63) [github.com/gsdocker/gsos:snapshot] install plugin package [github.com/gsmake/commands:snapshot] -- success
+	install path :D:/workspace/gsos/.gsmake
+2016-1-10 17:25:37 gsmake (plugin.lua:55) [github.com/gsdocker/gsos:snapshot] setup plugin package [github.com/gsmake/golang:snapshot]
+	path :D:\workspace\gsmake-golang\
+2016-1-10 17:25:37 gsmake (plugin.lua:55) [github.com/gsmake/golang:snapshot] setup plugin package [github.com/gsmake/lua:snapshot]
+	path :D:/workspace/gsmake/lib/gsmake/plugin/github.com/gsmake/lua
+2016-1-10 17:25:37 gsmake (plugin.lua:57) [github.com/gsmake/golang:snapshot] setup plugin package [github.com/gsmake/lua:snapshot] -- success
+	path :D:/workspace/gsmake/lib/gsmake/plugin/github.com/gsmake/lua
+2016-1-10 17:25:37 gsmake (plugin.lua:61) [github.com/gsmake/golang:snapshot] install plugin package [github.com/gsmake/lua:snapshot]
+	install path :D:/workspace/gsmake-golang/.gsmake
+2016-1-10 17:25:37 gsmake (runner.lua:46) register taskgroup(install) :
+2016-1-10 17:25:37 gsmake (runner.lua:48) 	from package [github.com/gsmake/lua:snapshot]
+2016-1-10 17:25:37 gsmake (runner.lua:126) topshort task(install) from package [github.com/gsmake/lua:snapshot] ;lua bootstrap install task
+2016-1-10 17:25:37 gsmake (runner.lua:70) invoke task(install)
+2016-1-10 17:25:37 gsmake (runner.lua:73) 	from package [github.com/gsmake/lua:snapshot] ...
+2016-1-10 17:25:37 gsmake (.gsmake.lua:14) install path :D:/workspace/gsmake-golang/.gsmake/gsmake/github.com/gsmake/lua
+2016-1-10 17:25:37 gsmake (.gsmake.lua:21) copy
+	from:D:/workspace/gsmake/lib/gsmake/plugin/github.com/gsmake/lua/src/plugin/lua
+	to:D:/workspace/gsmake-golang/.gsmake/gsmake/github.com/gsmake/lua/gsmake
+2016-1-10 17:25:37 gsmake (runner.lua:86) 	from package [github.com/gsmake/lua:snapshot] -- success
+2016-1-10 17:25:37 gsmake (runner.lua:89) invoke task(install) -- success
+2016-1-10 17:25:37 gsmake (plugin.lua:63) [github.com/gsmake/golang:snapshot] install plugin package [github.com/gsmake/lua:snapshot] -- success
+	install path :D:/workspace/gsmake-golang/.gsmake
+2016-1-10 17:25:37 gsmake (plugin.lua:57) [github.com/gsdocker/gsos:snapshot] setup plugin package [github.com/gsmake/golang:snapshot] -- success
+	path :D:\workspace\gsmake-golang\
+2016-1-10 17:25:37 gsmake (plugin.lua:61) [github.com/gsdocker/gsos:snapshot] install plugin package [github.com/gsmake/golang:snapshot]
+	install path :D:/workspace/gsos/.gsmake
+2016-1-10 17:25:37 gsmake (runner.lua:46) register taskgroup(resources) :
+2016-1-10 17:25:37 gsmake (runner.lua:48) 	from package [github.com/gsmake/lua:snapshot]
+2016-1-10 17:25:37 gsmake (runner.lua:46) register taskgroup(install) :
+2016-1-10 17:25:37 gsmake (runner.lua:48) 	from package [github.com/gsmake/lua:snapshot]
+2016-1-10 17:25:37 gsmake (runner.lua:126) topshort task(install) from package [github.com/gsmake/lua:snapshot] ;lua language install task
+2016-1-10 17:25:37 gsmake (runner.lua:126) topshort task(resources) from package [github.com/gsmake/lua:snapshot] ;prepare lua project's resources
+2016-1-10 17:25:37 gsmake (runner.lua:70) invoke task(resources)
+2016-1-10 17:25:37 gsmake (runner.lua:73) 	from package [github.com/gsmake/lua:snapshot] ...
+2016-1-10 17:25:37 gsmake (runner.lua:86) 	from package [github.com/gsmake/lua:snapshot] -- success
+2016-1-10 17:25:37 gsmake (runner.lua:89) invoke task(resources) -- success
+2016-1-10 17:25:37 gsmake (runner.lua:70) invoke task(install)
+2016-1-10 17:25:37 gsmake (runner.lua:73) 	from package [github.com/gsmake/lua:snapshot] ...
+2016-1-10 17:25:37 gsmake (runner.lua:86) 	from package [github.com/gsmake/lua:snapshot] -- success
+2016-1-10 17:25:37 gsmake (runner.lua:89) invoke task(install) -- success
+2016-1-10 17:25:37 gsmake (plugin.lua:63) [github.com/gsdocker/gsos:snapshot] install plugin package [github.com/gsmake/golang:snapshot] -- success
+	install path :D:/workspace/gsos/.gsmake
+2016-1-10 17:25:37 gsmake (runner.lua:46) register taskgroup(cache) :
+2016-1-10 17:25:37 gsmake (runner.lua:48) 	from package [github.com/gsmake/commands:snapshot]
+2016-1-10 17:25:37 gsmake (runner.lua:46) register taskgroup(compile) :
+2016-1-10 17:25:37 gsmake (runner.lua:48) 	from package [github.com/gsmake/golang:snapshot]
+2016-1-10 17:25:37 gsmake (runner.lua:46) register taskgroup(list) :
+2016-1-10 17:25:37 gsmake (runner.lua:48) 	from package [github.com/gsmake/commands:snapshot]
+2016-1-10 17:25:37 gsmake (runner.lua:46) register taskgroup(resources) :
+2016-1-10 17:25:37 gsmake (runner.lua:48) 	from package [github.com/gsmake/golang:snapshot]
+2016-1-10 17:25:37 gsmake (runner.lua:46) register taskgroup(install) :
+2016-1-10 17:25:37 gsmake (runner.lua:48) 	from package [github.com/gsmake/golang:snapshot]
+2016-1-10 17:25:37 gsmake (runner.lua:126) topshort task(compile) from package [github.com/gsmake/golang:snapshot] ;clang package compile task
+2016-1-10 17:25:37 gsmake (runner.lua:126) topshort task(resources) from package [github.com/gsmake/golang:snapshot] ;prepare dependencies package
+2016-1-10 17:25:37 gsmake (runner.lua:70) invoke task(resources)
+2016-1-10 17:25:37 gsmake (runner.lua:73) 	from package [github.com/gsmake/golang:snapshot] ...
